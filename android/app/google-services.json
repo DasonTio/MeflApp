@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "176260510280",
+    "project_id": "mefl-bloc-app",
+    "storage_bucket": "mefl-bloc-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176260510280:android:11d6d0d7af879de594de7d",
+        "android_client_info": {
+          "package_name": "com.example.mefl_app_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176260510280-2k9g1qb10l4n4g5ndfkoroiqqt5do2kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxmWY_n35tx7Rr30jpftKdrQRMvQ6RQ_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176260510280-2k9g1qb10l4n4g5ndfkoroiqqt5do2kr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "176260510280-qrkm72c0tkfqgqiq9sfgk7hgr9jmqshs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meflAppBloc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
